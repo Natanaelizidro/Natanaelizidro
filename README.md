@@ -1,6 +1,9 @@
 # 💫 Sobre Mim:
 🧑‍💻 Sobre mim<br>Olá! Sou estudante de Ciência da Computação, apaixonado por tecnologia e em busca de aprendizado constante. Estou dando meus primeiros passos no mundo da programação e desenvolvimento de software. Atualmente focado em aprender as bases de algoritmos, lógica de programação e desenvolvimento web.<br><br>🔭 No momento, estou estudando:<br><br>Lógica de Programação<br><br>Python e/ou Java (ou outra linguagem que esteja aprendendo)<br><br>Git e GitHub<br><br>🌱 Meus objetivos:<br><br>Aprender novas linguagens e ferramentas<br><br>Contribuir para projetos open source no futuro<br><br>Desenvolver projetos próprios para praticar
 
+
+# 💻 Linguagens e Tecnologias:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Natanaelizidro&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Natanaelizidro&theme=dark&hide_border=false)<br/>
